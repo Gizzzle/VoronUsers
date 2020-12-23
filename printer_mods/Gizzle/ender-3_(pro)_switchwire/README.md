@@ -18,7 +18,7 @@ This is my interpretation of a Ender 3 and Ender 3 Pro Switchwire mod. This is t
   - You'll need to move the Y extrusion 20mm forward to get the full 235mm movement of the Y-Axis. You can use one of the existing holes in the Y-extrusion and add one
     hammernut
   - There is no explicit keybak mount at the gantry in the basic version. The left bearing block has two holes like the og Switchwire, where a holder for the Keybak
-    fitsin. You can use this method if you are going to build the advanced version of my mod, which includes the grills and the electronics under the printer.
+    fits in. You can use this method if you are going to build the advanced version of my mod, which includes the grills and the electronics under the printer.
     For now, feel free to mount the Keybak anywhere you want!
   - The original Afterburner is mostly used (located in the Voron V2.4 repository). You can check which parts are needed in the BOM of the V2.4
     Some parts are different/additionally needed (e.g. the X carriage frames). Be sure to check everything twice!
